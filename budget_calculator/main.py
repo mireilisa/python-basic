@@ -3,7 +3,7 @@ def get_income():
     return income
 
 def get_expenses(category):
-    amount =float(input(f"Enter your monthly expenses for {category}:"))
+    amount = float(input(f"Enter your monthly expenses for {category}:"))
     return amount
 
 def collect_expenses(categories):
