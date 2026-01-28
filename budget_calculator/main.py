@@ -51,4 +51,4 @@ def print_report(income, expenses, total, balance):
         print("\033[92m✅ Budget under control!\033[0m")
 
 if __name__ == "__main__":
-        main()
+    main()
