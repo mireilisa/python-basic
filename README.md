@@ -40,5 +40,10 @@ The program collects income and expenses by category, calculates totals and bala
 
 ---
 
-## Project Structure
+## Project 
+
+python-basic/
+├── budget_calculator/
+│   └── main.py        # Main application file
+└── README.md          # Project documentation
 
