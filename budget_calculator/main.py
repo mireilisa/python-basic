@@ -1,20 +1,3 @@
-def get_income():
-    pass
-
-def get_expenses(category):
-    pass
-
-def collect_expenses(categories):
-    pass
-
-def calculate_total(expenses):
-    pass
-
-def print_report(income, expenses, total, balance):
-    pass
-
-def main():
-    pass
 
 def get_income():
     income = float(input("Enter your monthly income: "))
