@@ -1,4 +1,3 @@
-
 def get_income():
     income = float(input("Enter your monthly income: "))
     return income
