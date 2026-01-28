@@ -27,7 +27,7 @@ def main():
     
     total = calculate_total(expenses)
     balance = income - total
-
+    
     print_report(income, expenses, total, balance)
 
 def print_report(income, expenses, total, balance):
